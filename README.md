@@ -6,6 +6,7 @@
 6. 기타: 교육과정 2차 프로젝트
 7. 앱 스크린샷: https://blog.naver.com/gojejes/223245441104
 8. 참고:
+   
 ● 백견불여일타 스프링부트 쇼핑몰 프로젝트 with JPA(변구훈)
 -	https://github.com/roadbook2/shop
 
