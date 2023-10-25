@@ -4,3 +4,4 @@
 4. 담당업무 및 내용: 백엔드 담당(상품 CRUD, 상품 검색, 실시간 채팅 및 이미지 전송, 챗GPT와 대화하기 기능 구현)
 5. 사용기술: Java, Spring Boot, Thymeleaf, JSP, HTML, JavaScript, MySQL 등
 6. 기타: 교육과정 2차 프로젝트
+7. 앱 스크린샷: https://blog.naver.com/gojejes/223245441104
